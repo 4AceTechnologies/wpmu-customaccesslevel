@@ -2,8 +2,8 @@ WPMU Membership Custom Access Level
 ===================================
 
 Author: 4 Ace Technologies
-Author URI: http://www.4acetech.com
-License:  GPL2
+Author Website: http://www.4acetech.com
+
 
 This WP plugin is a basic plugin that can be customized to insert
 custom Access Levels to work with WPMU Membership plugin. Upon installation
